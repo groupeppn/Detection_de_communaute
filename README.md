@@ -6,7 +6,7 @@
 
  Pour compiler notre programme, on s’est basé sur un Makefile qui regroupe à la fois la partie séquentielle et parallèle.
 
- le code en séquentiel est compilé en utilisant la commande make serial et le code parallélisé avec OpenMP est compilé en utilisant la commande make parallel.
+ Le code en séquentiel est compilé en utilisant la commande make serial et le code parallélisé avec OpenMP est compilé en utilisant la commande make parallel.
 
 
 
@@ -14,10 +14,14 @@ Exécution:
 
 Pour exécuter notre programme  il suffit de taper les commande suivante sur l'invite de commande :
 
-le code séquentiel:  ./codes -f mygraph.txt  -a1 
+le code séquentiel:    ./codes  -f  mygraph.txt  -a1 
 
 
-le code parallèle:    ./codep -f mygraph.txt -t  -a2
+le code parallèle:     ./codep -f  mygraph.txt -t  -a2
+
+
+Remarque: 
+On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le dossier graphs.
 
 
 
