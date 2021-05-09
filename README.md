@@ -29,9 +29,11 @@ On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le
 
 -a indique quel algorithme à exécuter:
 
- -a 1 : pour l'algorithme 1
- 
- -a 2 : pour l’algorithme 2
+       -a1 : pour l'algorithme 1
+
+       -a2 : pour l’algorithme 2
+       
+ -t indique le nombre de thread par defaut c'est 2 .
 
 
 
