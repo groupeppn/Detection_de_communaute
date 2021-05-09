@@ -24,6 +24,7 @@ Remarque:
 
 On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le dossier graphs.
 
+Nous allons  utiliser les paramètres suivants: 
 
 -f : désigne le nom de fichier avec description du graphe. Les informations sur le graphe sont stockées dans un fichier mygraph1.txt ou nous ajoutons à la fois les arêtes (u, v) et (v, u).
 
