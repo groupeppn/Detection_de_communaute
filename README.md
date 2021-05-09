@@ -19,3 +19,17 @@ le code séquentiel:  ./codes -f mygraph.txt  -a1
 
 le code parallèle:    ./codep -f mygraph.txt -t  -a2
 
+
+
+
+
+-f  désigne le nom de fichier avec description du graphe. Les informations sur le graphe sont stockées dans un fichier mygraph1.txt ou nous ajoutons à la fois les arêtes (u, v) et (v, u).
+
+
+ -a indique quel algorithme à exécuter:
+
+ -a 1 : pour l'algorithme 1
+ -a 2 : pour l’algorithme 2
+
+
+
