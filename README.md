@@ -20,9 +20,10 @@ Pour exécuter notre programme  il suffit de taper les commande suivante sur l'i
       le code parallèle:     ./codep -f  mygraph.txt -t  -a2
 
 
-Remarque: 
+   Remarque: 
 
-On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le dossier graphs.
+   On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le dossier graphs.
+   
 
 Nous allons  utiliser les paramètres suivants: 
 
