@@ -21,18 +21,16 @@ le code parallèle:     ./codep -f  mygraph.txt -t  -a2
 
 
 Remarque: 
+
 On peut effectuer l'execution en utilisant d'autre graphes qui se trouve dans le dossier graphs.
 
 
+-f : désigne le nom de fichier avec description du graphe. Les informations sur le graphe sont stockées dans un fichier mygraph1.txt ou nous ajoutons à la fois les arêtes (u, v) et (v, u).
 
-
-
--f  désigne le nom de fichier avec description du graphe. Les informations sur le graphe sont stockées dans un fichier mygraph1.txt ou nous ajoutons à la fois les arêtes (u, v) et (v, u).
-
-
- -a indique quel algorithme à exécuter:
+-a indique quel algorithme à exécuter:
 
  -a 1 : pour l'algorithme 1
+ 
  -a 2 : pour l’algorithme 2
 
 
