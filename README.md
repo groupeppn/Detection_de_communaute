@@ -6,7 +6,7 @@
 
  Pour compiler notre programme, on s’est basé sur un Makefile qui regroupe à la fois la partie séquentielle et parallèle.
 
- Comme le montre la figure ci-dessous, le code en séquentiel est compilé en tapant sur make serial et le code parallélisé avec OpenMP est compilé en tapant sur le terminal make parallel
+ le code en séquentiel est compilé en tapant sur make serial et le code parallélisé avec OpenMP est compilé en tapant sur le terminal make parallel
 
 Exécution    
 
