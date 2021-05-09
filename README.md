@@ -1,0 +1,2 @@
+# Detection_de_communaute
+ L’objectif principal de ce projet est l'implémentation d’algorithmes qui ont pour vocation la détection de communautés dans les réseaux sociaux  représenté en sous forme de graphes , chaque sommets étant un membre et chaque arête une relation entre eux . Dans notre cas  nous avons deux algorithmes à réaliser , ses derniers sont   proposés par notre encadreur  et  font appelle tous deux  à l'algorithme de Bron-Kerbosch . 
