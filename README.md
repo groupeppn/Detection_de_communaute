@@ -14,10 +14,10 @@ Exécution:
 
 Pour exécuter notre programme  il suffit de taper les commande suivante sur l'invite de commande :
 
-le code séquentiel:    ./codes  -f  mygraph.txt  -a1 
+      le code séquentiel:    ./codes  -f  mygraph.txt  -a1 
 
 
-le code parallèle:     ./codep -f  mygraph.txt -t  -a2
+      le code parallèle:     ./codep -f  mygraph.txt -t  -a2
 
 
 Remarque: 
